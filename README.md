@@ -1,1 +1,1 @@
-Aplicativo feito em Java para consultar CEPs do Brasil usando a API ViaCEP
+Android app made in Java to consult Brazilian postal codes using ViaCEP API
