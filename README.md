@@ -1,1 +1,1 @@
-Aplicativo feito em java para consulta de cep usando a API ViaCEP
+Aplicativo feito em java para consultar CEPs do Brasil usando a API ViaCEP
